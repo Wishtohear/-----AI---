@@ -1,0 +1,156 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   crs:PresetType="Normal"
+   crs:Cluster=""
+   crs:UUID="C3560B3155F79C4CA26F4EB69B42B9D7"
+   crs:SupportsAmount="True"
+   crs:SupportsColor="True"
+   crs:SupportsMonochrome="True"
+   crs:SupportsHighDynamicRange="True"
+   crs:SupportsNormalDynamicRange="True"
+   crs:SupportsSceneReferred="True"
+   crs:SupportsOutputReferred="True"
+   crs:CameraModelRestriction=""
+   crs:Copyright=""
+   crs:ContactInfo=""
+   crs:Version="12.4"
+   crs:ProcessVersion="6.7"
+   crs:Saturation="-5"
+   crs:Sharpness="35"
+   crs:LuminanceSmoothing="0"
+   crs:ColorNoiseReduction="25"
+   crs:ShadowTint="+25"
+   crs:RedHue="+56"
+   crs:RedSaturation="+5"
+   crs:GreenHue="+51"
+   crs:GreenSaturation="-18"
+   crs:BlueHue="-38"
+   crs:BlueSaturation="+21"
+   crs:Vibrance="-10"
+   crs:HueAdjustmentRed="+9"
+   crs:HueAdjustmentOrange="+6"
+   crs:HueAdjustmentYellow="-100"
+   crs:HueAdjustmentGreen="-100"
+   crs:HueAdjustmentAqua="-26"
+   crs:HueAdjustmentBlue="-18"
+   crs:HueAdjustmentPurple="+20"
+   crs:HueAdjustmentMagenta="+20"
+   crs:SaturationAdjustmentRed="-36"
+   crs:SaturationAdjustmentOrange="-21"
+   crs:SaturationAdjustmentYellow="-44"
+   crs:SaturationAdjustmentGreen="-80"
+   crs:SaturationAdjustmentAqua="-33"
+   crs:SaturationAdjustmentBlue="-58"
+   crs:SaturationAdjustmentPurple="-35"
+   crs:SaturationAdjustmentMagenta="-35"
+   crs:LuminanceAdjustmentRed="-17"
+   crs:LuminanceAdjustmentOrange="-7"
+   crs:LuminanceAdjustmentYellow="-48"
+   crs:LuminanceAdjustmentGreen="-74"
+   crs:LuminanceAdjustmentAqua="-26"
+   crs:LuminanceAdjustmentBlue="-43"
+   crs:LuminanceAdjustmentPurple="0"
+   crs:LuminanceAdjustmentMagenta="0"
+   crs:SplitToningShadowHue="0"
+   crs:SplitToningShadowSaturation="0"
+   crs:SplitToningHighlightHue="210"
+   crs:SplitToningHighlightSaturation="16"
+   crs:SplitToningBalance="-30"
+   crs:ParametricShadows="0"
+   crs:ParametricDarks="0"
+   crs:ParametricLights="0"
+   crs:ParametricHighlights="-50"
+   crs:ParametricShadowSplit="14"
+   crs:ParametricMidtoneSplit="60"
+   crs:ParametricHighlightSplit="75"
+   crs:SharpenRadius="+1.0"
+   crs:SharpenDetail="25"
+   crs:SharpenEdgeMasking="0"
+   crs:PostCropVignetteAmount="0"
+   crs:GrainAmount="0"
+   crs:ColorNoiseReductionDetail="50"
+   crs:ColorNoiseReductionSmoothness="50"
+   crs:Contrast2012="-35"
+   crs:Highlights2012="-51"
+   crs:Shadows2012="+43"
+   crs:Whites2012="-28"
+   crs:Blacks2012="+17"
+   crs:Clarity2012="+10"
+   crs:ConvertToGrayscale="False"
+   crs:OverrideLookVignette="False"
+   crs:ToneCurveName2012="Custom"
+   crs:CameraProfile="Adobe Standard"
+   crs:HasSettings="True">
+   <crs:Name>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">钟祖兵婚礼风格7</rdf:li>
+    </rdf:Alt>
+   </crs:Name>
+   <crs:ShortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:ShortName>
+   <crs:SortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:SortName>
+   <crs:Group>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">摄影之城 - 钟祖兵婚礼风格</rdf:li>
+    </rdf:Alt>
+   </crs:Group>
+   <crs:Description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:Description>
+   <crs:ToneCurvePV2012>
+    <rdf:Seq>
+     <rdf:li>0, 33</rdf:li>
+     <rdf:li>47, 44</rdf:li>
+     <rdf:li>126, 126</rdf:li>
+     <rdf:li>255, 226</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012>
+   <crs:ToneCurvePV2012Red>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>46, 15</rdf:li>
+     <rdf:li>106, 108</rdf:li>
+     <rdf:li>142, 158</rdf:li>
+     <rdf:li>163, 181</rdf:li>
+     <rdf:li>201, 209</rdf:li>
+     <rdf:li>255, 248</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Red>
+   <crs:ToneCurvePV2012Green>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>46, 19</rdf:li>
+     <rdf:li>105, 108</rdf:li>
+     <rdf:li>146, 164</rdf:li>
+     <rdf:li>162, 181</rdf:li>
+     <rdf:li>193, 209</rdf:li>
+     <rdf:li>255, 248</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Green>
+   <crs:ToneCurvePV2012Blue>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>46, 19</rdf:li>
+     <rdf:li>106, 106</rdf:li>
+     <rdf:li>140, 155</rdf:li>
+     <rdf:li>166, 184</rdf:li>
+     <rdf:li>196, 212</rdf:li>
+     <rdf:li>255, 249</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Blue>
+   <crs:Look
+    crs:Name=""/>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
