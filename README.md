@@ -12,13 +12,7 @@ LightRoom 2024 CameraRaw17.0
 ## 推荐版本
 LightRoom 2025(或更高) CameraRaw17.1(或更高)
 ## 现包含以下预设（后续慢慢更新）
-揽月晴天顶楼自然室内
-
-揽月晴天拱门闪光还原
-
-揽月夕阳逆光闪光
-
-揽月夕阳逆光自然
+揽月系列
 
 楼顶夕阳胶片色剪影
 
@@ -28,15 +22,20 @@ LightRoom 2025(或更高) CameraRaw17.1(或更高)
 
 阴天洱海边cherrymi色调
 
-樱桃房间内部自然光暖
+樱桃系列
 
-樱桃室内晴天自然逆光还原
+安止系列
 
-樱桃阴天房间闪光正常
+鹿卧山系列
 
-樱桃阴天闪光暖色
+锦象园系列
 
+人像留色
+
+其他胶片预设
 ## 安装方法
 把文件夹压缩成zip后使用LR里面的导入预设功能可自动导入
 
-windows也可以使用一下目录打开 C:\Users\（用户名）\AppData\Roaming\Adobe\CameraRaw\Settings
+或者直接下载本仓库zip
+
+windows预设目录打开 C:\Users\（用户名）\AppData\Roaming\Adobe\CameraRaw\Settings
