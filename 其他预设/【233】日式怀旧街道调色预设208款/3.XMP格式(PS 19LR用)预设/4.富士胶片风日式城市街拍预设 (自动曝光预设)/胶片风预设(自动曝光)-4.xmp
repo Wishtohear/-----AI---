@@ -1,0 +1,142 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   crs:PresetType="Normal"
+   crs:Cluster=""
+   crs:UUID="9BBDA4890737FECDDF192B0C16015928"
+   crs:SupportsAmount="False"
+   crs:SupportsColor="True"
+   crs:SupportsMonochrome="True"
+   crs:SupportsHighDynamicRange="True"
+   crs:SupportsNormalDynamicRange="True"
+   crs:SupportsSceneReferred="True"
+   crs:SupportsOutputReferred="True"
+   crs:CameraModelRestriction=""
+   crs:Copyright=""
+   crs:ContactInfo=""
+   crs:Version="10.5"
+   crs:ProcessVersion="10.0"
+   crs:ShadowTint="-3"
+   crs:RedHue="+26"
+   crs:RedSaturation="0"
+   crs:GreenHue="+60"
+   crs:GreenSaturation="-26"
+   crs:BlueHue="-27"
+   crs:BlueSaturation="-12"
+   crs:HueAdjustmentRed="+26"
+   crs:HueAdjustmentOrange="+12"
+   crs:HueAdjustmentYellow="+10"
+   crs:HueAdjustmentGreen="0"
+   crs:HueAdjustmentAqua="0"
+   crs:HueAdjustmentBlue="-13"
+   crs:HueAdjustmentPurple="-5"
+   crs:HueAdjustmentMagenta="-18"
+   crs:SaturationAdjustmentRed="-30"
+   crs:SaturationAdjustmentOrange="-20"
+   crs:SaturationAdjustmentYellow="-21"
+   crs:SaturationAdjustmentGreen="0"
+   crs:SaturationAdjustmentAqua="-32"
+   crs:SaturationAdjustmentBlue="-38"
+   crs:SaturationAdjustmentPurple="-24"
+   crs:SaturationAdjustmentMagenta="-36"
+   crs:LuminanceAdjustmentRed="-5"
+   crs:LuminanceAdjustmentOrange="+10"
+   crs:LuminanceAdjustmentYellow="+9"
+   crs:LuminanceAdjustmentGreen="0"
+   crs:LuminanceAdjustmentAqua="+8"
+   crs:LuminanceAdjustmentBlue="-15"
+   crs:LuminanceAdjustmentPurple="-23"
+   crs:LuminanceAdjustmentMagenta="-17"
+   crs:SplitToningShadowHue="220"
+   crs:SplitToningShadowSaturation="19"
+   crs:SplitToningHighlightHue="54"
+   crs:SplitToningHighlightSaturation="9"
+   crs:SplitToningBalance="+78"
+   crs:ParametricShadows="0"
+   crs:ParametricDarks="0"
+   crs:ParametricLights="0"
+   crs:ParametricHighlights="0"
+   crs:ParametricShadowSplit="25"
+   crs:ParametricMidtoneSplit="50"
+   crs:ParametricHighlightSplit="75"
+   crs:PostCropVignetteAmount="0"
+   crs:GrainAmount="13"
+   crs:GrainSize="25"
+   crs:GrainFrequency="31"
+   crs:Clarity2012="+10"
+   crs:Dehaze="0"
+   crs:ConvertToGrayscale="False"
+   crs:AutoTone="True"
+   crs:OverrideLookVignette="False"
+   crs:ToneCurveName2012="Custom"
+   crs:CameraProfile="Camera CLASSIC CHROME"
+   crs:HasSettings="True">
+   <crs:Name>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">JA – Cine Night 4 (Classic Chrome) (Auto)</rdf:li>
+    </rdf:Alt>
+   </crs:Name>
+   <crs:ShortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:ShortName>
+   <crs:SortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:SortName>
+   <crs:Group>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">富士胶片风日式城市街拍预设 (自动曝光预设)</rdf:li>
+    </rdf:Alt>
+   </crs:Group>
+   <crs:Description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:Description>
+   <crs:ToneCurvePV2012>
+    <rdf:Seq>
+     <rdf:li>0, 8</rdf:li>
+     <rdf:li>43, 33</rdf:li>
+     <rdf:li>93, 94</rdf:li>
+     <rdf:li>128, 153</rdf:li>
+     <rdf:li>181, 212</rdf:li>
+     <rdf:li>224, 242</rdf:li>
+     <rdf:li>255, 247</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012>
+   <crs:ToneCurvePV2012Red>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>53, 46</rdf:li>
+     <rdf:li>119, 122</rdf:li>
+     <rdf:li>204, 209</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Red>
+   <crs:ToneCurvePV2012Green>
+    <rdf:Seq>
+     <rdf:li>9, 1</rdf:li>
+     <rdf:li>61, 64</rdf:li>
+     <rdf:li>125, 126</rdf:li>
+     <rdf:li>195, 194</rdf:li>
+     <rdf:li>255, 245</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Green>
+   <crs:ToneCurvePV2012Blue>
+    <rdf:Seq>
+     <rdf:li>0, 12</rdf:li>
+     <rdf:li>53, 63</rdf:li>
+     <rdf:li>125, 129</rdf:li>
+     <rdf:li>197, 196</rdf:li>
+     <rdf:li>255, 245</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Blue>
+   <crs:Look
+    crs:Name=""/>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
